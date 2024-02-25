@@ -3,6 +3,7 @@ In the era of autonomous driving levels 2-3, safe driving by the human operator 
 ## Embeded part
 ### Vehicle internal(Desktop part)
 Monitor the driver's forward attention by pupil, head pose and phone detection.
+![image](https://github.com/SSU-CAR/SSU-CAR_Embeded/assets/107911398/3e5b8ff1-3ff0-49f1-a111-0ddbeedbca80)
 
 ### Vehicle external(Raspberry part)
 Monitor the illegal lane change like changing in solid line and without direction light.
