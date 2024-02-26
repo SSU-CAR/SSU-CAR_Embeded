@@ -14,6 +14,8 @@ Monitor the illegal lane change like changing in solid line and without directio
 DrivenDist - Report driving distance and current veloicity.  
 Joystick_usb - Control RC car with joystick.  
 LaeDetection, lane_ex - Lane detetction with HSV(HSL) filtering.  
+
 [Structure]
-![image](https://github.com/SSU-CAR/SSU-CAR_Embeded/assets/107911398/77e2e055-b323-4d55-bb0e-73a4f5f935af)
+![image](https://github.com/SSU-CAR/SSU-CAR_Embeded/assets/107911398/f9ba1f30-c304-40fd-be91-5b8dd9e31aa9)
+
 
