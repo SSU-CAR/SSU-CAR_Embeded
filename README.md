@@ -16,6 +16,7 @@ Joystick_usb - Control RC car with joystick.
 LaeDetection, lane_ex - Lane detetction with HSV(HSL) filtering.  
 
 [Structure]
-![image](https://github.com/SSU-CAR/SSU-CAR_Embeded/assets/107911398/f9ba1f30-c304-40fd-be91-5b8dd9e31aa9)
+![image](https://github.com/SSU-CAR/SSU-CAR_Embeded/assets/107911398/f5f10145-ed10-4ec9-9722-8f5671cca517)
+
 
 
