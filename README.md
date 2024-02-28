@@ -3,8 +3,9 @@ In the era of autonomous driving levels 2-3, safe driving by the human operator 
 ## Embedded part
 ### Vehicle internal(Desktop part)
 #### Framework, language:
-![ROS Package Index](https://img.shields.io/ros/v/:humble/)
-![C++](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
+![ROS2](https://img.shields.io/badge/ros-foxy-444444?style=for-the-badge&logo=ros)
+![Python](https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python)
+![Docker](https://img.shields.io/badge/Docker-444444?style=for-the-badge&logo=Docker)
 
 
 
@@ -22,7 +23,10 @@ Three evaluation factors - Closed eye detection, Head pose estimation, Phone det
 ![image](https://github.com/SSU-CAR/SSU-CAR_Embeded/assets/107911398/3e5b8ff1-3ff0-49f1-a111-0ddbeedbca80)
 
 ### Vehicle external(Raspberry part)
-#### Framework, language: python, C++, C  
+#### Framework, language:
+![C++](https://img.shields.io/badge/C++-444444?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=Python)
+
 Monitor the illegal lane change like changing in solid line and without direction light.  
 
 DrivenDist - Report driving distance and current veloicity.  
