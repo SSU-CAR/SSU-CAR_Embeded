@@ -2,7 +2,9 @@
 In the era of autonomous driving levels 2-3, safe driving by the human operator remains essential. Our service evaluates driver habits both externally and internally within the vehicle, providing feedback to enhance safety.
 ## Embedded part
 ### Vehicle internal(Desktop part)
-#### Framework, language: ROS2, python  
+#### Framework, language:
+<img src="https://img.shields.io/badge/ros-#22314E?style=for-the-badge&logo=ros&logoColor=white">
+
 Monitor the driver's forward attention by pupil, head pose and phone detection.  
 Three evaluation factors - Closed eye detection, Head pose estimation, Phone detection  
 
